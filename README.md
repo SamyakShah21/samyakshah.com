@@ -1,2 +1,1 @@
-# samyakshah.com
-Website contents for samyakshah.com
+Website contents for [samyakshah.com](samyakshah.com)
